@@ -14,8 +14,8 @@ values_uruguai = []
 
 ## Isso é um teste
 
-diaini=1
-diafim=17
+#diaini=1
+#diafim=17
 
 for dias in range(diaini, diafim+1, 1):
 
